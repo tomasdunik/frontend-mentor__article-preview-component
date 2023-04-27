@@ -11,7 +11,7 @@ Používatelia tejto stránky môžu:
 
 Po kliknutí na nadpis alebo na meno autorky sa zobrazí môj predchádzajúci projekt zo stránky [Frontend Mentor](https://www.frontendmentor.io/solutions/my-version-intro-component-with-signup-form-mGaz1ESb-k).
 
-<!-- #### [Odkaz na hotovú stránku.](https://tomasdunik.github.io/frontend-mentor-newbie-equalizer-landing-page/) -->
+#### [Odkaz na hotovú stránku.](https://tomasdunik.github.io/frontend-mentor__article-preview-component/)
 
 <br/>
 
@@ -45,6 +45,6 @@ Projekt som vytvoril za približne 5 hodín. Je to čas od stiahnutia projektu a
 
 ## 🔗 Projekty Frontend Mentor
 
-<!-- - [Tento konkrétny projekt na stránke Frontend Mentor](https://www.frontendmentor.io/solutions/equalizer-landing-page-WPZNnYpwXg) -->
+- [Tento konkrétny projekt na stránke Frontend Mentor](https://www.frontendmentor.io/solutions/my-version-article-preview-component-zB4uukJR93)
 
 - [Moje ostatné projekty na stránke Frontend Mentor](https://www.frontendmentor.io/profile/WeekendsProgrammer)
