@@ -172,11 +172,11 @@
     display: flex;
     justify-content: center;
     left: 55rem;
+    padding: 1.6rem 3.2rem 1.6rem 3.2rem;
     max-width: 24.8rem;
     min-height: 5.5rem;
     min-width: 24.8rem;
     opacity: 0;
-    padding: 1.6rem 3.2rem 1.6rem 3.2rem;
     pointer-events: none;
     position: absolute;
     visibility: hidden;
@@ -184,7 +184,7 @@
   }
   .share-box::after {
     background-color: #48556a;
-    content: '';
+    content: "";
     height: 2rem;
     position: absolute;
     top: 82%;
@@ -212,4 +212,4 @@
     margin-left: auto;
     width: 3.2rem;
   }
-} /*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
